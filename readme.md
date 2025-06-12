@@ -1,15 +1,15 @@
-## Concurrent Key-Value Database 💿
+## SwagDB
 
-embeddable, persistent key-value database with support for concurrent operations and indexing written in golang
+embeddable, persistent KV DB with concurrent operations & indexing
 
-## Features
+## Featuring
 - In-memory and persistent storage
 - ACID-like transaction support
 - Concurrent read/write operations
 - Range and prefix-based queries
 - Simple key-value data model
 
-## Installation
+## Setup
 ```bash
 go get github.com/codrion/gokv
 ```
